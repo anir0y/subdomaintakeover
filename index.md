@@ -3,10 +3,8 @@
 
 ---
 
-<center>
-<img src= "https://media3.giphy.com/media/jnQYWZ0T4mkhCmkzcn/giphy.gif?cid=ecf05e4706rou21oxkklfj22z1abstkugy9ht0zio21n4gxs&rid=giphy.gif">
 
-</center>
+![cryingbaby](https://media3.giphy.com/media/jnQYWZ0T4mkhCmkzcn/giphy.gif?cid=ecf05e4706rou21oxkklfj22z1abstkugy9ht0zio21n4gxs&rid=giphy.gif)
 
 ---
 
